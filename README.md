@@ -20,3 +20,6 @@ https://www.youtube.com/watch?v=95mWD1Y4PtE
 The dashboard shows annotated 2D footage beside a Plotly 3D plot. Choose a tracked object to see its recent trajectory, its extrapolated path up to one second ahead, and an estimated depth trend. The HTML file includes embedded video and tracking data; it can therefore be relatively large.
 Open synchronized_2d_3d_dashboard.html in a browser. Use the track selector and video controls to inspect synchronized 2D and relative 3D tracking. Plotly is loaded from a CDN, so viewing the dashboard requires network access to that script unless it is bundled locally.
 
+<img width="1416" height="745" alt="image" src="https://github.com/user-attachments/assets/466e16b6-e43a-43ba-963f-766240c51ad5" />
+
+
